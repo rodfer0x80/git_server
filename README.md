@@ -1,4 +1,4 @@
-#! git_server
+# git_server
 ## host a private git server
 within Docker and with the simplicity of bash scripting for the following tasks:
 * init server - spin up server
